@@ -42,7 +42,7 @@ sudo git clone https://github.com/mianawais99/filmlane.git
 Windows:
 
 ```bash
-git clone https://github.com/mianawais/filmlane.git
+git clone https://github.com/mianawais99/filmlane.git
 ```
 
 ### Contact
