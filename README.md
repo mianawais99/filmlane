@@ -4,8 +4,6 @@
   ![GitHub stars](https://img.shields.io/github/stars/mianawais99/filmlane?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/mianawais99/filmlane?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/mianawais99codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=mianawais99)
-  <!-- [![YouTube Video Views](https://img.shields.io/youtube/views/G-mEhvhWyw8?style=social)](https://youtu.be/G-mEhvhWyw8) -->
-
   <br />
   <br />
   
@@ -15,7 +13,7 @@
 
   Filmlane is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://mianawais.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
+  <a href="https://mianawais99.github.io/filmlane/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
