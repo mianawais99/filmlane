@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/mianawais99/filmlane)
   ![GitHub stars](https://img.shields.io/github/stars/mianawais99/filmlane?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/mianawais99/filmlane?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/mianawais99codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=mianawais99)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/mianawais99?style=social)](https://twitter.com/intent/follow?screen_name=mianawais99)
   <br />
   <br />
   
